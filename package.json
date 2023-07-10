@@ -22,7 +22,7 @@
     "url": "http://www.justmoon.net"
   },
   "dependencies": {
-    "bindings": "^1.5.0",
+    "bindings": "*",
     "nan": "^2.14.0",
     "safe-buffer": "^5.2.0"
   },
